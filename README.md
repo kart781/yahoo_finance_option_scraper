@@ -16,16 +16,14 @@ Before using this tool, ensure you have the following prerequisites installed:
 
 </h3>Installation </h3>
 
+Make sure you have the following packages installed before executing the files in this repository
+
 - Python 3.x: If you don't have Python 3.x installed, download and install it from the official Python website.
-  
 - Selenium: You can install Selenium using pip:
   **pip install selenium**
-
 - WebDriver: Download the WebDriver for your preferred browser (e.g., Chrome WebDriver) and ensure it's in your system's PATH. 
-  
 - pandas library: You can install the pandas library using pip:
 **pip install pandas**
-
 - smtplib for sending emails: smtplib is part of Python's standard library, so no additional installation is needed.
 
 </h3>Output </h3>
