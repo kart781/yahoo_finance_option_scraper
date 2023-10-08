@@ -30,10 +30,10 @@ Make sure you have the following packages installed before executing the files i
 
 Open the attachmentmail.py and option_scraper.py file and update the following settings:
 
-EMAIL_ADDRESS: Your email address for sending the CSV file.
-EMAIL_PASSWORD: Your email password or an application-specific password (if using Gmail).
-RECIPIENT_EMAILS: List of recipient email addresses to send the CSV file.
-TICKER_SYMBOLS: List of stock ticker symbols to scrape options data for.
+- EMAIL_ADDRESS: Your email address for sending the CSV file.
+- EMAIL_PASSWORD: Your email password or an application-specific password (if using Gmail).
+- RECIPIENT_EMAILS: List of recipient email addresses to send the CSV file.
+- TICKER_SYMBOLS: List of stock ticker symbols to scrape options data for.
 
 </h3>Output </h3>
  
