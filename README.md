@@ -1,6 +1,6 @@
 <h1>Yahoo Finance Options Data Scraper </h1>
 
-</h3>Overview </h3>
+</h3><ins>Overview </ins>ins></h3>
 
 This project is a command-line tool that allows users to scrape options data from Yahoo Finance for selected stock ticker symbols using Selenium. The scraped data is then processed to extract desired values and save them into a CSV file. Additionally, the tool can send the CSV file via email to specified recipients.
 
