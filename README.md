@@ -33,7 +33,14 @@ Open the attachmentmail.py and option_scraper.py file and update the following s
 - EMAIL_ADDRESS: Your email address for sending the CSV file.
 - EMAIL_PASSWORD: Your email password or an application-specific password (if using Gmail).
 - RECIPIENT_EMAILS: List of recipient email addresses to send the CSV file.
-- TICKER_SYMBOLS: List of stock ticker symbols to scrape options data for.
+- TICKER_SYMBOLS: List of stock ticker symbols to scrape options data for. This is the user input which must be given in the command line while executing the program.
+
+</h2><ins>Usage </ins></h2>
+
+- Clone this repository to your local machine: **git clone https://github.com/kart781/yahoo_finance_option_scraper**
+- Navigate to the project directory: **cd yahoo-finance-scraper**
+- Edit the attachmentmail.py file to configure your email settings and specify the stock ticker symbols you want to scrape options data for while running it in the command line.
+- Run the tool from the command line: **python options_scraper.py AAPL META TSLA GOOG AMZN**
 
 </h2><ins>Output </ins></h2>
  
