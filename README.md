@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://yourprojectwebsite.com/assets/yahoo_finance_robot.png" alt="Yahoo Finance Robot" width="200"/>
-</p>
-
 <h1>Yahoo Finance Options Data Scraper </h1>
 
 </h2><ins>Overview </ins></h2>
