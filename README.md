@@ -1,11 +1,11 @@
 <h1>Yahoo Finance Options Data Scraper </h1>
 
-</h3><ins>Overview </ins>ins></h3>
+</h2><ins>Overview </ins></h2>
 
 This project is a command-line tool that allows users to scrape options data from Yahoo Finance for selected stock ticker symbols using Selenium. The scraped data is then processed to extract desired values and save them into a CSV file. Additionally, the tool can send the CSV file via email to specified recipients.
 
-</h3>Prerequisites </h3>
-  
+</h2><ins>Prerequisites </ins></h2>
+
 Before using this tool, ensure you have the following prerequisites installed:              
 
 - Python 3.x
@@ -14,7 +14,7 @@ Before using this tool, ensure you have the following prerequisites installed:
 - pandas library
 - smtplib for sending emails
 
-</h3>Installation </h3>
+</h2><ins>Installation </ins></h2>
 
 Make sure you have the following packages installed before executing the files in this repository
 
@@ -26,7 +26,7 @@ Make sure you have the following packages installed before executing the files i
 **pip install pandas**
 - smtplib for sending emails: smtplib is part of Python's standard library, so no additional installation is needed.
 
-</h3>Configuration </h3>
+</h2><ins>Configuration </ins></h2>
 
 Open the attachmentmail.py and option_scraper.py file and update the following settings:
 
@@ -35,19 +35,19 @@ Open the attachmentmail.py and option_scraper.py file and update the following s
 - RECIPIENT_EMAILS: List of recipient email addresses to send the CSV file.
 - TICKER_SYMBOLS: List of stock ticker symbols to scrape options data for.
 
-</h3>Output </h3>
+</h2><ins>Output </ins></h2>
  
 The scraped options data will be processed and saved into a CSV file named options_data.csv in the project directory.
 
-</h3>Email Notification </h3>
+</h2><ins>Email Notification </ins></h2>
  
 After scraping and processing, the tool will send the CSV file to the specified recipients via email.
 
-</h3>Disclaimer </h3>
+</h2><ins>Disclaimer </ins></h2>
  
 This tool is for educational and informational purposes only. Use it responsibly and ensure compliance with all relevant laws and regulations.
 
-</h3>Contributors </h3>
+</h2><ins>Contributions </ins></h2>
  
 karthikram781@gmail.com
 Feel free to contribute to this project by submitting issues or pull requests.
