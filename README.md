@@ -1,4 +1,4 @@
-<h1>Yahoo Finance Options Data Scraper 1</h1>
+<h1>Yahoo Finance Options Data Scraper </h1>
 
 </h3>Overview </h3>
 
