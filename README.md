@@ -46,7 +46,7 @@ Open the attachmentmail.py and option_scraper.py file and update the following s
 
 Few of the changes in the past weeks are:<br />
 
-<ins>Implied Volatility Trigger</ins> : A new addition to the tool is the trigger.py script. This script monitors the implied volatility difference for your selected stock ticker symbols. When the difference exceeds a specified limit, the script will cast an email spell, alerting you to the significant change.
+<ins>Implied Volatility Trigger</ins> : A new addition to the tool is the trigger.py script. This script monitors the implied volatility difference for your selected stock ticker symbols. When the difference exceeds a specified limit, the script will trigger an email, alerting you to the significant change.
 <br />
 
 <ins>Cleaning CSV Files</ins> : You now have the option to easily manage your workspace with the shortcut.py script. Run it to remove all CSV files within the project folder, providing you with a clean slate for your data.
