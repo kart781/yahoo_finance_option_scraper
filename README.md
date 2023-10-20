@@ -55,7 +55,6 @@ A new addition to the tool is the trigger.py script. This script monitors the im
 
 You now have the option to easily manage your workspace with the shortcut.py script. Run it to remove all CSV files within the project folder, providing you with a clean slate for your data.
 <br />
-<br />
 
 </h2><ins>Output </ins></h2>
  
