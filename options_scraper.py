@@ -120,7 +120,7 @@ for ticker_symbol in sys.argv[1:]:
 
 os.remove(r"C:\Users\karth\yahoo-finance-scraper\Options.csv")
 
-def attachment_mail():
-    call(["python", "attachmentmail.py"])
+# def attachment_mail():
+#     call(["python", "attachmentmail.py"])
 
-attachment_mail()
+# attachment_mail()
