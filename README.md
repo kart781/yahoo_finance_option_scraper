@@ -43,12 +43,13 @@ Open the attachmentmail.py and option_scraper.py file and update the following s
 - Run the tool from the command line: **python options_scraper.py AAPL META TSLA GOOG AMZN**
 
 </h2><ins>Additional Features </ins></h2><br>
+<br />
 </h2><ins>Implied Volatility Trigger </ins></h2>
-A new addition to the tool is the iv_difference_trigger.py script. This wizardry monitors the implied volatility difference for your selected stock ticker symbols. When the difference exceeds a specified limit, the script will cast an email spell, alerting you to the significant change.<br />
+A new addition to the tool is the iv_difference_trigger.py script. This wizardry monitors the implied volatility difference for your selected stock ticker symbols. When the difference exceeds a specified limit, the script will cast an email spell, alerting you to the significant change.
 <br />
 </h2><ins>Cleaning CSV Files </ins></h2>
 You now have the option to easily manage your workspace with the clean_csv_files.py script. Run it to remove all CSV files within the project folder, providing you with a clean slate for your data.
-
+<br />
 </h2><ins>Output </ins></h2>
  
 The scraped options data will be processed and saved into a CSV file named options_data.csv in the project directory.
